@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-platform",
+  "version": "1.0.0",
+  "description": "See image below for log-in page of the E-Commerce Platform:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenson36/e-commerce-platform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenson36/e-commerce-platform/issues"
+  },
+  "homepage": "https://github.com/stephenson36/e-commerce-platform#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
