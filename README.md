@@ -1,6 +1,7 @@
 # e-commerce-platform
 
 ## Description
+This application hprovides an e-commerce platform using routes, models, and a MySQL database. This application has been tested using ThunderClient to ensure functionality in all routes.
 
 ## Visuals
 
